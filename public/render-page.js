@@ -114,7 +114,7 @@ var plugins = [{
     "plugins": [],
     "name": "Resume",
     "short_name": "Landing",
-    "start_url": "/sapna-blesson-resume/",
+    "start_url": "/resume_sapnabl",
     "background_color": "#663399",
     "theme_color": "#663399",
     "display": "standalone",
@@ -30799,15 +30799,9 @@ if (false) {} else {
 /***/ }),
 
 /***/ "@reach/router":
-<<<<<<< HEAD
 /*!***********************************************************************************************!*\
   !*** external "/Users/sapnablesson/learn/resume_sapnabl/node_modules/@reach/router/index.js" ***!
   \***********************************************************************************************/
-=======
-/*!****************************************************************************************!*\
-  !*** external "/Users/sapnablesson/learn/sapnabl/node_modules/@reach/router/index.js" ***!
-  \****************************************************************************************/
->>>>>>> c6a2972d684dd75370703d6b4531ad74ecbeebdd
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -30827,15 +30821,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_fs__;
 /***/ }),
 
 /***/ "lodash/merge":
-<<<<<<< HEAD
 /*!****************************************************************************************!*\
   !*** external "/Users/sapnablesson/learn/resume_sapnabl/node_modules/lodash/merge.js" ***!
   \****************************************************************************************/
-=======
-/*!*********************************************************************************!*\
-  !*** external "/Users/sapnablesson/learn/sapnabl/node_modules/lodash/merge.js" ***!
-  \*********************************************************************************/
->>>>>>> c6a2972d684dd75370703d6b4531ad74ecbeebdd
 /*! no static exports found */
 /***/ (function(module, exports) {
 

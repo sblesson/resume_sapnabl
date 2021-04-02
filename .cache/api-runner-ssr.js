@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/sapnablesson/learn/resume_sapnabl/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Resume","short_name":"Landing","start_url":"/sapna-blesson-resume/","background_color":"#663399","theme_color":"#663399","display":"standalone","icon":"src/assets/img/website-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"34ded252fc8e8dadced26fc66fa517fe"},
+      options: {"plugins":[],"name":"Resume","short_name":"Landing","start_url":"/resume_sapnabl","background_color":"#663399","theme_color":"#663399","display":"standalone","icon":"src/assets/img/website-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"34ded252fc8e8dadced26fc66fa517fe"},
     },{
       plugin: require('/Users/sapnablesson/learn/resume_sapnabl/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
